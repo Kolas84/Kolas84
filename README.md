@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm new so please bear with me and give me sometime.
 <!--
 **Kolas84/Kolas84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
